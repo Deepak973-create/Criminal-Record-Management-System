@@ -1,3 +1,4 @@
 # Criminal-Record-Management-System
 
-The Criminal Record Management system is primarily focused on storing data related to police officers , prisoners and people who file complaints .This Management system has features like registering the compliant ,deleting the compliant ,registering as police official and status of  compliant. ID and password are provide for police officials, public and Higher Officials. The data can be  viewed like compliant data, officials data and thief data .
+A GUI application that helps victims to file and trace their complaint(s) and helps the police officials to update the complaint details and access the criminal record history.
+•Technology Used: Java GUI(Swing), Oracle DB.
